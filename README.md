@@ -25,13 +25,13 @@
 
 **[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=agents-towards-production--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dagents-towards-production&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
 
-**$199 · one payment · lifetime access · 30-day refund, no questions**<br>
-<sub>$99 in India, Pakistan, Bangladesh, Sri Lanka and Nepal, applied at checkout.</sub>
+**🖤 Black Friday, the only sale of the year: <s>$199</s> $99 until Monday night, Nov 30.**<br>
+<sub>One payment · lifetime access · 30-day refund, no questions. The discount is applied at checkout.</sub>
 
 > "I went through the module and I like that you explicitly separate advisory rules from rules that become executable through hooks, tests or CI."<br>
 > **Theo Valmis, Mneme HQ**
 
-### 👉 [**Get the course: $199**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=agents-towards-production--readme&click=course-buy-top&target=https%3A%2F%2Fdiamant-ai.com%2Fbuy%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dagents-towards-production%26utm_content%3Dreadme-buy&retarget=0&text=course-buy-top)
+### 👉 [**Get the course: $99**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=agents-towards-production--readme&click=course-buy-top&target=https%3A%2F%2Fdiamant-ai.com%2Fbuy%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dagents-towards-production%26utm_content%3Dreadme-buy&retarget=0&text=course-buy-top)
 
 Not ready? [Try the first module free, no signup](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=agents-towards-production--readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dagents-towards-production-direct&retarget=0&text=course-free-module-direct) · Expensing it? [The note for your manager](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=agents-towards-production--readme&click=course-expense&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Fexpense%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dagents-towards-production%26utm_content%3Dreadme-expense&retarget=0&text=course-expense)
 
